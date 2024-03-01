@@ -1,5 +1,5 @@
 # Google-Data-Scientist-Interview-Preparation
 
-1. Process
-2. Leet Code
-3. Statistics
+I am preparing this repository to track my progress on my preparation for google data scientist interview.
+
+1. Leet code : 
